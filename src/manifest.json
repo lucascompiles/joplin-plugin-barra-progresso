@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "com.lucas.barraprogresso",
+	"app_min_version": "3.7",
+	"version": "1.0.0",
+	"name": "barra-progresso",
+	"description": "",
+	"author": "",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
